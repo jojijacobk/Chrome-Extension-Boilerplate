@@ -1,0 +1,1 @@
+This is a boilerplate code for making chrome extension.
